@@ -1,0 +1,11 @@
+{
+  "signalId": "risk-signal-001",
+  "category": "Strategy Confidence",
+  "severity": "medium",
+  "mode": "Paper",
+  "message": "This strategy has limited closed paper samples and should remain in learning mode.",
+  "recommendedAction": "Collect more paper outcomes across different market regimes before increasing strategy confidence.",
+  "requiresUserReview": true,
+  "financialAdvice": false,
+  "executionInstruction": false
+}
