@@ -1,0 +1,17 @@
+{
+  "strategyId": "sample-strategy-001",
+  "strategyName": "Iron Condor",
+  "assetClass": "Options",
+  "mode": "Paper",
+  "market": "NIFTY",
+  "closedSamples": 42,
+  "winRate": 71,
+  "netPaperPnL": 1635,
+  "averagePnLPerTrade": 812,
+  "riskProfile": "Defined Risk",
+  "sampleConfidence": "Moderate",
+  "rankScore": 82,
+  "status": "Learning",
+  "decisionBias": "Range / Short Premium",
+  "recommendation": "Continue paper testing and review outcomes across different market regimes before assigning higher confidence."
+}
