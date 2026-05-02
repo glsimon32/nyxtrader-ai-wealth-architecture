@@ -1,0 +1,23 @@
+{
+  "portfolioId": "sample-portfolio-001",
+  "mode": "Paper",
+  "currency": "INR",
+  "availableBalance": 994000,
+  "totalInvested": 0,
+  "todayPnL": 0,
+  "totalNetWorth": 994000,
+  "allocation": {
+    "equity": 0,
+    "mutualFunds": 0,
+    "optionsReserve": 0,
+    "unallocatedCash": 100
+  },
+  "riskSummary": {
+    "concentrationRisk": "low",
+    "leverageRisk": "none",
+    "volatilityExposure": "not_applicable",
+    "decisionBias": "neutral",
+    "humanReviewRequired": true
+  },
+  "note": "This is synthetic sample data for portfolio architecture demonstration only."
+}
