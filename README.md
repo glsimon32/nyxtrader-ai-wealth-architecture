@@ -93,6 +93,17 @@ Which sectors are showing strength today?
 Where is my risk exposure concentrated?
 Is my strategy sample size large enough to trust?
 Which trades should remain in learning mode?
+```
+
+---
+
+## 4. High-Level Architecture
+
+![NyxTrader AI Wealth Architecture](Nyxtrade-architecture.png)
+
+*Conceptual overview of the NyxTrader AI-powered wealth intelligence, paper trading, strategy learning, and portfolio decision-support platform.*
+
+```text
 
 +-------------------------------------------------------------+
 |                         User Experience Layer               |
